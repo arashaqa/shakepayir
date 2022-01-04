@@ -13,3 +13,4 @@ async function getAccountInfo(req, res) {
 }
 
 exports.getAccountInfo = getAccountInfo;
+
